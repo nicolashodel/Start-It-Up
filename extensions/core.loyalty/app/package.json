@@ -1,0 +1,19 @@
+{
+  "name": "shoutem.loyalty",
+  "version": "1.5.19-build1518613127639",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "prop-types": "15.6.0",
+    "react-native-qrcode": "0.2.3",
+    "react-native-svg": "5.1.7"
+  },
+  "peerDependencies": {
+    "@shoutem/core": "*"
+  },
+  "rnpm": {
+    "commands": {
+      "postlink": "node node_modules/shoutem.loyalty/link.js"
+    }
+  }
+}

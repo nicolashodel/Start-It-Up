@@ -1,0 +1,8 @@
+{
+  "name": "shoutem.web-view",
+  "version": "1.5.1-build1513958936791",
+  "main": "index.js",
+  "peerDependencies": {
+    "@shoutem/core": "*"
+  }
+}
