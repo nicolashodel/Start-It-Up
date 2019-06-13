@@ -1,2 +1,2 @@
 # platform
-Shoutem platform
+platform
